@@ -1,0 +1,14 @@
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildRPSLab\DevBuildRPSLab\bin\Debug\netcoreapp3.1\DevBuildRPSLab.exe
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildRPSLab\DevBuildRPSLab\bin\Debug\netcoreapp3.1\DevBuildRPSLab.deps.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildRPSLab\DevBuildRPSLab\bin\Debug\netcoreapp3.1\DevBuildRPSLab.runtimeconfig.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildRPSLab\DevBuildRPSLab\bin\Debug\netcoreapp3.1\DevBuildRPSLab.runtimeconfig.dev.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildRPSLab\DevBuildRPSLab\bin\Debug\netcoreapp3.1\DevBuildRPSLab.dll
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildRPSLab\DevBuildRPSLab\bin\Debug\netcoreapp3.1\DevBuildRPSLab.pdb
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildRPSLab\DevBuildRPSLab\obj\Debug\netcoreapp3.1\DevBuildRPSLab.csproj.AssemblyReference.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildRPSLab\DevBuildRPSLab\obj\Debug\netcoreapp3.1\DevBuildRPSLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildRPSLab\DevBuildRPSLab\obj\Debug\netcoreapp3.1\DevBuildRPSLab.AssemblyInfoInputs.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildRPSLab\DevBuildRPSLab\obj\Debug\netcoreapp3.1\DevBuildRPSLab.AssemblyInfo.cs
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildRPSLab\DevBuildRPSLab\obj\Debug\netcoreapp3.1\DevBuildRPSLab.csproj.CoreCompileInputs.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildRPSLab\DevBuildRPSLab\obj\Debug\netcoreapp3.1\DevBuildRPSLab.dll
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildRPSLab\DevBuildRPSLab\obj\Debug\netcoreapp3.1\DevBuildRPSLab.pdb
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildRPSLab\DevBuildRPSLab\obj\Debug\netcoreapp3.1\DevBuildRPSLab.genruntimeconfig.cache
